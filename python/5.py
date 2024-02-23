@@ -12,6 +12,7 @@ def main():
         print('X')
     else:
         print('O')
+        
     return
 
 

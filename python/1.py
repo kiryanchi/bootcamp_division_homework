@@ -9,6 +9,7 @@ def main():
     for _ in range(3):
         print(number % 10, end='')
         number = number // 10
+        
     return
 
 

@@ -10,6 +10,7 @@ def main():
         print('PM')
     else:
         print('AM')
+        
     return
 
 

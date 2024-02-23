@@ -9,6 +9,7 @@ def main():
     if age >= 61:
         print("DISCOUNT")
     print("BOARD")
+    
     return
 
 
